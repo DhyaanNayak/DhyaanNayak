@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Dhyaan Nayak 👋
 
-# 💫 About Me:
-AI/ML engineer building intelligent systems. Focused on deep learning, NLP, and scalable AI solutions. Open to collaboration.
+**AI/ML Engineer & Technical Leader** | Building production-ready intelligent systems that scale
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyaan-nayak/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhyaannayak@gmail.com)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhyaan-nayak/) 
+## 🚀 Quick Highlights
 
-# 💻 Tech Stack:
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
+- 🏢 **CTO @ Morelife** - Architected AI wellness platform scaling to 2.1K users with GPT-4 & RAG
+- 🤖 Built **agentic AI systems** reducing manual workflows by 87% (4 hours → 45 min)
+- 📊 Delivered ML models with **78-94% accuracy** across NLP, CV, and recommendation systems
+- 🎓 **MSc in AI** from Oxford Brookes | **Published researcher** (ICASSCT 2024)
+
+## 💼 What I Do Best
+```python
+skills = {
+    "AI/ML": ["RAG Pipelines", "LangChain/LangGraph", "Deep Learning", "NLP"],
+    "Leadership": ["Team Management", "System Architecture", "Product Strategy"],
+    "Production": ["99.91% efficiency gains", "96.8% crash-free rates", "Sub-2s response times"]
+}
+```
+
+## 🛠️ Tech Stack
+
+**AI/ML:** PyTorch • TensorFlow • LangChain • scikit-learn • OpenAI API  
+**Backend:** Python • FastAPI • Node.js • C++  
+**Cloud/Infra:** GCP • AWS • Docker • Kubernetes • Firebase  
+**Databases:** MongoDB • PostgreSQL • Pinecone • ChromaDB • Redis  
+**Mobile:** Flutter • Dart
+
+## 🔥 Featured Projects
+
+**🤖 Autonomous AI Research Agent**  
+LangGraph + GPT-4o with RAG pipeline | 85% task completion, <200ms latency
+
+**🔐 Kali Linux Security Agent**  
+AI-powered penetration testing | Reduced assessment time from 4hrs → 45min
+
+**🏥 AI Wellness Platform (Morelife)**  
+Agentic AI with HealthKit integration | 2.1K users, 15-min avg sessions
+
+**📰 Fake News Detector**  
+LSTM neural networks | 89% accuracy on 15K+ articles
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=DhyaanNayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyaanNayak&theme=dark&hide_border=true&layout=compact)
+
+## 🎯 Open To
+
+Building scalable AI systems | Technical leadership roles | Collaborative projects in AI/ML
+
+📫 **Let's connect:** dhyaannayak@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DhyaanNayak&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=DhyaanNayak&icon=2&color=0)](https://visitcount.itsvg.in)
