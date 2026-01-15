@@ -17,7 +17,6 @@
 skills = {
     "AI/ML": ["RAG Pipelines", "LangChain/LangGraph", "Deep Learning", "NLP"],
     "Leadership": ["Team Management", "System Architecture", "Product Strategy"],
-    "Production": ["99.91% efficiency gains", "96.8% crash-free rates", "Sub-2s response times"]
 }
 ```
 
@@ -42,11 +41,6 @@ Agentic AI with HealthKit integration | 2.1K users, 15-min avg sessions
 
 **📰 Fake News Detector**  
 LSTM neural networks | 89% accuracy on 15K+ articles
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=DhyaanNayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyaanNayak&theme=dark&hide_border=true&layout=compact)
 
 ## 🎯 Open To
 
