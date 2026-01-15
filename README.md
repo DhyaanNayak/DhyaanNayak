@@ -1,4 +1,4 @@
-# Hi, I'm Dhyaan Nayak 👋
+# Hi, I'm Dhyaan 👋
 
 **AI/ML Engineer & Technical Leader** | Building production-ready intelligent systems that scale
 
